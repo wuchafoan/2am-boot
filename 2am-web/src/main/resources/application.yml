@@ -1,0 +1,16 @@
+server:
+  context-path: /
+  port: 80
+
+spring:
+  http:
+    encoding:
+      charset: UTF-8
+      force: true
+  mvc:
+    view:
+      prefix: /
+      suffix: .jsp
+
+
+
