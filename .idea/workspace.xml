@@ -4,7 +4,23 @@
     <bookmark url="file://$PROJECT_DIR$/2am-web/src/main/java/com/boot/demo/web/controller/UserController.java" line="10" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="13ee31f5-c057-4269-93e2-8245f3776439" name="Default" comment="" />
+    <list default="true" id="13ee31f5-c057-4269-93e2-8245f3776439" name="Default" comment="spring-boot 初体验">
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2am-boot.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2am-dao/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2am-service-support/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2am-web/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2am-web/src/main/java/com/boot/demo/web/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2am-web/src/main/java/com/boot/demo/web/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2am-web/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2am-web/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2am-web/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/2am-web/target/" />
@@ -111,6 +127,7 @@
   </component>
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -175,12 +192,12 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="893" />
-    <option name="y" value="38" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="938" />
     <option name="width" value="1936" />
     <option name="height" value="1100" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -346,12 +363,12 @@
       <updated>1532154213418</updated>
       <workItem from="1532154214942" duration="4958000" />
       <workItem from="1532225721819" duration="615000" />
-      <workItem from="1532233640949" duration="430000" />
+      <workItem from="1532233640949" duration="1076000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6003000" />
+    <option name="totallyTimeSpent" value="6649000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -363,7 +380,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="607" y="110" width="1936" height="1056" extended-state="0" />
+    <frame x="938" y="0" width="1936" height="1100" extended-state="0" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32900432" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
@@ -372,10 +389,10 @@
       <window_info anchor="bottom" id="Application Servers" order="8" />
       <window_info anchor="right" id="Maven Projects" order="3" weight="0.18496802" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.50541127" />
       <window_info anchor="bottom" id="Spring" order="7" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32900432" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.31437436" />
       <window_info id="Designer" order="2" />
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49891776" visible="true" weight="0.17857143" />
       <window_info anchor="right" id="Bean Validation" order="3" />
@@ -399,6 +416,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="spring-boot 初体验" />
+    <option name="LAST_COMMIT_MESSAGE" value="spring-boot 初体验" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
